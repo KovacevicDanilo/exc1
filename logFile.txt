@@ -1,0 +1,11 @@
+commit 9a94669b3fd6cdbb81912f19b7a9c1fd0061aaab
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Wed Jan 22 11:31:37 2025 +0400
+
+    Updated newone file
+
+commit 36b17aa79b7773b468755011cb483a7c353067e9
+Author: Danilo Kovacevic <dxkcad1@RIT.ae>
+Date:   Wed Jan 22 11:27:11 2025 +0400
+
+    First coomit
